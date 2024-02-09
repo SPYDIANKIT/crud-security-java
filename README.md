@@ -86,7 +86,5 @@ To run the project, you can use the provided Maven wrapper scripts:
 
 Alternatively, you can import the project into your preferred IDE and run the `TaskManagmentProjApplication.java` class.
 
-For more detailed information, refer to the `HELP.md` file.
-
 Enjoy managing your tasks efficiently with this Task Management System!
 
