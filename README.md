@@ -2,48 +2,41 @@
 
 This is a simple Task Management System built using Spring Boot, Java, and Maven. It provides functionality to manage tasks and users within an organization.
 
-## Project Structure
+```plaintext
 task-management-system/
 │
 ├── src/main/java/
-│   ├── com.example.demo/
-│   │   ├── TaskManagmentProjApplication.java
-│   │   ├── controller/
-│   │   │   ├── TaskController.java
-│   │   │   └── UserController.java
-│   │   ├── model/
-│   │   │   ├── Task.java
-│   │   │   └── User.java
-│   │   ├── repo/
-│   │   │   ├── TaskRepository.java
-│   │   │   └── UserRepository.java
-│   │   └── service/
-│   │       ├── TaskService.java
-│   │       ├── TaskServiceImpl.java
-│   │       ├── UserService.java
-│   │       └── UserServiceImpl.java
-│   │
+│   └── com.example.demo/
+│       ├── TaskManagmentProjApplication.java
+│       ├── controller/
+│       │   ├── TaskController.java
+│       │   └── UserController.java
+│       ├── model/
+│       │   ├── Task.java
+│       │   └── User.java
+│       ├── repo/
+│       │   ├── TaskRepository.java
+│       │   └── UserRepository.java
+│       └── service/
+│           ├── TaskService.java
+│           ├── TaskServiceImpl.java
+│           ├── UserService.java
+│           └── UserServiceImpl.java
+│
 ├── src/main/resources/
-│   ├── static/
-│   ├── templates/
-│   └── application.properties
-│
+├── static/
+├── templates/
+└── application.properties
 ├── src/test/java/
-│
 ├── JRE System Library [JavaSE-17]
-│
 ├── Maven Dependencies
-│
 ├── src/
-│
 ├── target/
-│
 ├── HELP.md
-│
 ├── mvnw
-│
 └── mvnw.cmd
 
+```
 
 
 ## Project Description
